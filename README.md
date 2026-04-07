@@ -5,8 +5,8 @@
 ---
 
 ## 📸 Demo
+<img width="379" height="805" alt="image" src="https://github.com/user-attachments/assets/a72bdeb2-a618-43fe-8ee6-760b4c77c438" />
 
-Upload a photo or snap one with your camera — PetLens returns the prediction, confidence score, and per-class probabilities in real time.
 
 ---
 
