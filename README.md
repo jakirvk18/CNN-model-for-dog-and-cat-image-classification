@@ -199,6 +199,9 @@ If `dogcat_model.pth` is not found, the server starts in **demo mode** and retur
 ```
 Epoch 10/10 | Train 93.19% | Val 87.38%
 Best Validation Accuracy: 88.32%
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b7fa396b-44da-4891-bf32-2d6ceddb2b8b" />
+
 ```
 
 The accuracy curve is saved automatically to `backend/training_curves.png` after training.
