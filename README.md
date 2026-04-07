@@ -1,6 +1,6 @@
 # 🐾 PetLens AI — Dog vs Cat Classifier
 
-> A full-stack AI app that classifies pets from photos using a custom PyTorch CNN, served via FastAPI, with a polished React frontend.
+> A full-stack AI app that classifies pets(dogs , cats) from photos using a custom PyTorch CNN, served via FastAPI, with a polished React frontend.
 
 ---
 
