@@ -64,7 +64,8 @@ cd CNN-model-for-dog-and-cat-image-classification
 ### 2. Install Python dependencies
 
 ```bash
-pip install fastapi uvicorn[standard] torch torchvision pillow python-multipart tqdm matplotlib
+cd backend
+pip install -r requirements.txt
 ```
 
 ### 3. Prepare the dataset
