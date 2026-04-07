@@ -57,8 +57,8 @@ petlens/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/jakirvk18/petlens.git
-cd petlens
+https://github.com/jakirvk18/CNN-model-for-dog-and-cat-image-classification.git
+cd CNN-model-for-dog-and-cat-image-classification
 ```
 
 ### 2. Install Python dependencies
